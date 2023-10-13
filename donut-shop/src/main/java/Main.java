@@ -16,7 +16,6 @@ public class Main {
             totalPrice += donut.getPrice();
         }
         System.out.printf("This is the total price: $%.2f%n", totalPrice);
-
     }
 }
 
